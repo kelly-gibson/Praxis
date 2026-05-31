@@ -1,6 +1,6 @@
 # Praxis
 
-UPDATE: Druid UI has been discontinued, so this project will be archived pending interest in a future rstu-native UI toolkit.
+UPDATE: Druid UI has been discontinued, so this project will be discontinued pending interest in a future rust-native UI toolkit.
 
 Praxis is a to-do list desktop application made entirely in Rust, using the Druid UI toolkit.
 
